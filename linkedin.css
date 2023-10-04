@@ -1,0 +1,206 @@
+.img-text{
+    
+    width: 141px;
+    margin-left: 112px;
+}
+.logo-img{
+    width: 50%;
+}
+.login{
+    width: 50%;
+}
+body{
+    margin: 0;
+    color: transparent;
+}
+.join{
+    float: right;
+    margin-right: -439px;
+    margin-top: -214px;
+    border: none;
+    background: ;
+    color: gray
+}
+button:hover{
+    background: gainsboro;
+    border-radius: 24px;
+}
+.sign{
+    float: right;
+    margin-right: -534px;
+    margin-top: -59px;
+    color: blue;
+    border-radius: 24px;
+    border-width: 1px;
+    border-color: blue;
+    border-top-color: blue;
+    border-right-color: blue;
+    border-bottom-color: blue;
+    border-left-color: blue;
+    cursor: pointer;
+    min-height: 48px;
+    background: none;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+    padding-top: 10px;
+    margin-top: -225px;
+    margin-right: -558px;
+}
+body{
+    color: transparent;
+    margin: 0;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif ;
+}
+.left-section{
+    width: 50%;
+}
+.right-section{
+    width: 50%;
+    float: right;
+    margin-top: -93px;
+     
+}
+.para1{
+    color: #8f5849;
+    font-size: 56px;
+    font-weight: 200;
+    padding-left: 113px;
+    margin-top: 36px;
+}
+.email{
+    color: black;
+    padding-left: 109px;
+    font-size: 14px;
+    padding-top: 10px;
+    margin-left: -101px;
+    font-weight: 600;
+}
+.email-box{
+    margin-left: 107px;
+    width: 410px;
+    height: 48px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border-width: thin;
+}
+.form{
+    margin-top: -41px;
+    margin-left: 8px;
+}
+.pass{
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 110px; 
+}
+.pass-box{
+    margin-left: 107px;
+    width: 410px;
+    height: 48px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border-width: thin;
+
+}
+.forgot{
+
+    text-decoration: underline;
+    font-size: 16px;
+    font-weight: 600;
+    color: blue;
+    padding-left: 105px;
+}
+.btn-sign{
+    margin-left: 113px;
+    width: 279px;
+    width: 422px;
+    border-radius: 30px;
+    background:#0a66c2;
+    color: white;
+    height: 46px;
+    border: none;
+    text-align: centre;
+    margin-top: 27px; 
+}
+.btn-sign:hover{
+    background: blue;
+    border-radius: 30px;
+}
+
+.line{
+    display: flex;
+    width: 48%;
+    align-items: center;
+    margin-left: 115px;
+    width: 423px;
+}
+.line hr{
+    width: 48%;
+    height: 0;
+    color: whitesmoke;
+    outline: none;
+}
+.line span{
+    color: rgb(109, 107,107);
+
+    padding: 0 10px;
+}    
+.with-google{
+    
+    margin-left: 108px;
+    width: 433px;
+    font-size: 14px;
+    padding-top: 4px;
+    margin-top: 14px;
+    border-radius: 30px;
+    border: -4px;
+    border-width: -25px;
+    height: 41px;
+    border-width: thin;
+    border-color: lightgrey;
+}
+.btn-new{
+    margin-left: 105px;
+    margin-top: 24px;
+    width: 444px;
+    border-radius: 30px;
+    border-width: thin;
+    height: 40px;
+    font-weight: 500;
+}
+.img-1{
+    padding-top: 5px;
+    width: 764px;
+    margin-left: 56px;
+    margin-top: -688px;
+    width: 700px;
+}
+.footer{
+   width: 100%; 
+}
+
+.ul  {
+    display: inline-flex;
+    margin-left: 402px; 
+    margin-top: -41px;
+    padding-left: -44px;
+    padding-left: 285px;
+}
+.people{
+    width: 31px;
+    margin-left: 118px;
+}
+.article{
+    width: 31px;
+}
+.learning{
+    width: 31px;
+}
+.jobs{
+    width: 31px;
+}
